@@ -130,7 +130,7 @@ width: 100%;
 
 .hero-banner-container{
   padding: 100px 40px;
-  background-color:antiquewhite;
+  background-color:#F7D7E1;
   border-radius: 15px;
   position: relative;
   height: 500px;
@@ -689,7 +689,7 @@ margin-top: 160px;
   }
   .cart-container{
     width: 415px;
-  padding: 4px;
+    padding: 5px;
   }
   .cart-heading{
     margin-top: 35px;
