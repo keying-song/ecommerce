@@ -130,16 +130,17 @@ width: 100%;
 
 .hero-banner-container{
   padding: 100px 40px;
-  background-color:#dcdcdc;
+  background-color:antiquewhite;
   border-radius: 15px;
   position: relative;
   height: 500px;
   line-height: 0.9; 
   width: 100%;
-
+  
 }
 .hero-banner-container .beats-solo{
   font-size: 20px;
+  
   
 }
 .hero-banner-container button{
@@ -158,6 +159,7 @@ width: 100%;
 .hero-banner-container h3{
   font-size: 4rem;
   margin-top: 4px;
+  
 }
 .hero-banner-container h1{
   color:white;
@@ -182,7 +184,7 @@ width: 300px;
 line-height: 1.3;
 display: flex;
 flex-direction: column;
- color: #324d67;
+color: #324d67;
 
 }
 .desc p{
@@ -213,10 +215,10 @@ text-align: end;
 }
 .footer-banner-container{
   padding: 100px 40px;
-  background-color: #f02d34;
+  background-color: #CACBF9;
   border-radius: 15px;
   position: relative;
-  height: 400px;
+  height: 500px;
   line-height: 1; 
   color: white;
   width: 100%;
@@ -347,7 +349,7 @@ padding: 20px 10px;
   padding: 20px;
 }
 .product .cart-product-image{
-  width:180px ;
+  width:150px ;
   height: 150px;
     border-radius: 15px;
  background-color: #ebebeb;
@@ -371,6 +373,7 @@ padding: 20px 10px;
 .total{
   display: flex;
   justify-content: space-between;
+  HEIGHT:10px;
 }
 .total h3{
   font-size: 22px;
@@ -385,10 +388,11 @@ padding: 20px 10px;
 }
 .cart-bottom{
   position: absolute;
-  bottom: 12px;
-  right: 5px;
-width: 100%;
-padding: 30px 65px;
+  bottom: 1px;
+  right: 1px;
+  width: 100%;
+  padding: 30px 65px;
+  
 
 }
 
@@ -434,7 +438,7 @@ padding: 30px 65px;
   transition: .3s ease-in-out;
 }
 .product-detail-image:hover{
-  background-color: #f02d34;
+  background-color: #F7D7E1;
 
 }
 .small-images-container{
@@ -451,7 +455,7 @@ padding: 30px 65px;
 }
 
 .selected-image{
-  background-color:#f02d34;
+  background-color:#F7D7E1;
 }
 .reviews{
   color: #f02d34;
